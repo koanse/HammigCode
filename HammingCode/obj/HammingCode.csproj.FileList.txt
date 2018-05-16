@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HammingCode.Form1.resources
+obj\Debug\HammingCode.Properties.Resources.resources
+obj\Debug\HammingCode.csproj.GenerateResource.Cache
+bin\Debug\HammingCode.exe
+bin\Debug\HammingCode.pdb
+obj\Debug\HammingCode.exe
+obj\Debug\HammingCode.pdb
